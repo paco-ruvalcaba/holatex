@@ -1,1 +1,1 @@
-Repositorio para hacer pruebas b sicas con LaTeX, y sobre todo para repasar los aspectos b sicos para compilar desde consola.
+Repositorio para hacer pruebas bÃ¡sicas con LaTeX, y sobre todo para repasar los aspectos bÂ sicos para compilar desde consola.
